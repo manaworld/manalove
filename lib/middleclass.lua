@@ -1,0 +1,1 @@
+../3rd/middleclass/middleclass.lua

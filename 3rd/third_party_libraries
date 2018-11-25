@@ -1,0 +1,49 @@
+[GUI]
+	- guilt
+	- gooi
+	- richtext
+
+[Animation]
+	- anim8
+	- katsudo
+	- love-bone
+	- walt
+
+[Audio]
+	- ripple
+
+[Input]
+	- boipushy
+
+[Tiled Map]
+	- STI
+
+[Physics-Collision]
+	- windfield
+	- bump
+
+[Debug-Console]
+	- lovedebug
+	- love-console
+
+[Loader]
+	- lily
+	- love-loader
+	- cargo
+
+[Camera-Screen]
+	- stalker-x
+	- screenmanager
+	- push
+	- scrale
+	- gamera
+
+[Timer]
+	- chrono
+	- hoot-lua
+
+[JSON]
+	- json.lua
+
+[Path finding]
+	- jumper

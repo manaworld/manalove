@@ -1,0 +1,111 @@
+[submodule "3rd/gooi"]
+	path = 3rd/gooi
+	url = https://github.com/tavuntu/gooi
+[submodule "3rd/simple_tiled_implementation"]
+	path = 3rd/simple_tiled_implementation
+	url = https://github.com/karai17/Simple-Tiled-Implementation.git
+[submodule "3rd/lovedebug"]
+	path = 3rd/lovedebug
+	url = https://github.com/flamendless/lovedebug.git
+[submodule "3rd/love-bone"]
+	path = 3rd/love-bone
+	url = https://github.com/seltzy/love-bone.git
+[submodule "3rd/walt"]
+	path = 3rd/walt
+	url = https://github.com/davisdude/Walt.git
+[submodule "3rd/anim8"]
+	path = 3rd/anim8
+	url = https://github.com/kikito/anim8.git
+[submodule "3rd/windfield"]
+	path = 3rd/windfield
+	url = https://github.com/adnzzzzZ/windfield.git
+[submodule "3rd/boipushy"]
+	path = 3rd/boipushy
+	url = https://github.com/adnzzzzZ/boipushy.git
+[submodule "3rd/middleclass"]
+	path = 3rd/middleclass
+	url = https://github.com/kikito/middleclass.git
+[submodule "3rd/love-loader"]
+	path = 3rd/love-loader
+	url = https://github.com/kikito/love-loader.git
+[submodule "3rd/tween"]
+	path = 3rd/tween
+	url = https://github.com/kikito/tween.lua.git
+[submodule "3rd/bump"]
+	path = 3rd/bump
+	url = https://github.com/kikito/bump.lua.git
+[submodule "3rd/md5"]
+	path = 3rd/md5
+	url = https://github.com/kikito/md5.lua.git
+[submodule "3rd/love-console"]
+	path = 3rd/love-console
+	url = https://github.com/hamsterready/love-console.git
+[submodule "3rd/shadows"]
+	path = 3rd/shadows
+	url = https://github.com/matiasah/shadows.git
+[submodule "3rd/chrono"]
+	path = 3rd/chrono
+	url = https://github.com/adnzzzzZ/chrono.git
+[submodule "3rd/gamera"]
+	path = 3rd/gamera
+	url = https://github.com/kikito/gamera.git
+[submodule "3rd/lily"]
+	path = 3rd/lily
+	url = https://github.com/MikuAuahDark/lily.git
+[submodule "3rd/ripple"]
+	path = 3rd/ripple
+	url = https://github.com/tesselode/ripple.git
+[submodule "3rd/stalker-x"]
+	path = 3rd/stalker-x
+	url = https://github.com/adnzzzzZ/STALKER-X.git
+[submodule "3rd/push"]
+	path = 3rd/push
+	url = https://github.com/Ulydev/push.git
+[submodule "3rd/lovebite"]
+	path = 3rd/lovebite
+	url = https://github.com/josh-perry/lovebite.git
+[submodule "3rd/hump"]
+	path = 3rd/hump
+	url = https://github.com/vrld/hump.git
+[submodule "3rd/autobatch"]
+	path = 3rd/autobatch
+	url = https://github.com/rxi/autobatch.git
+[submodule "3rd/screenmanager"]
+	path = 3rd/screenmanager
+	url = https://github.com/rm-code/screenmanager.git
+[submodule "3rd/love-9-slice"]
+	path = 3rd/love-9-slice
+	url = https://github.com/mikufuworks/love-9-slice.git
+[submodule "3rd/guilt"]
+	path = 3rd/guilt
+	url = https://github.com/MLJWare/guilt.git
+[submodule "3rd/scrale"]
+	path = 3rd/scrale
+	url = https://github.com/MartyMaro/scrale.git
+[submodule "3rd/cargo"]
+	path = 3rd/cargo
+	url = https://github.com/bjornbytes/cargo.git
+[submodule "3rd/vector"]
+	path = 3rd/vector
+	url = https://github.com/gijsbel/Vector.git
+[submodule "3rd/lua-astar"]
+	path = 3rd/lua-astar
+	url = https://github.com/GloryFish/lua-astar.git
+[submodule "3rd/katsudo"]
+	path = 3rd/katsudo
+	url = https://github.com/tavuntu/katsudo.git
+[submodule "3rd/hoot-lua"]
+	path = 3rd/hoot-lua
+	url = https://github.com/farzher/hoot-lua.git
+[submodule "3rd/json.lua"]
+	path = 3rd/json.lua
+	url = https://github.com/rxi/json.lua.git
+[submodule "3rd/behavior3_lua"]
+	path = 3rd/behavior3_lua
+	url = https://github.com/nottvlike/behavior3_lua.git
+[submodule "3rd/jumper"]
+	path = 3rd/jumper
+	url = https://github.com/Yonaba/Jumper.git
+[submodule "3rd/richtext"]
+	path = 3rd/richtext
+	url = https://github.com/gvx/richtext.git
